@@ -1,7 +1,6 @@
 [English]
 
-# I am not the creator of this plugin, all credits go to "Starbish"
-# https://forums.alliedmods.net/member.php?u=156764
+# I am not the creator of this plugin, all credits go to "[Starbish](https://forums.alliedmods.net/member.php?u=156764)"
 # I just created this repository as a backup
 
 You can now exclude folders from being precached and uploaded.
